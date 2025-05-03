@@ -1,6 +1,3 @@
-using StudentModel;
-using System.Collections.Generic;
-
 namespace Student.Services
 {
     public interface IStudentService

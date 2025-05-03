@@ -1,8 +1,5 @@
-using StudentModel;
 using Student.Services;
 using Student.Forms;
-using System;
-using System.Windows.Forms;
 
 namespace Student
 {
